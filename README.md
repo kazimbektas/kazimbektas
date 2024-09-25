@@ -88,7 +88,7 @@
 
 ### 🌐 Let's Connect
 <p align="center">
-  <a href="https://linkedin.com/in/kazim-bektas" target="blank">
+  <a href="https://www.linkedin.com/in/kazim-bektas-356567155/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
   </a>
   <a href="mailto:bektaskazimca@gmail.com" target="blank">
