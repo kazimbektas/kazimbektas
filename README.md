@@ -95,10 +95,12 @@
   <a href="https://www.linkedin.com/in/kazim-bektas-356567155/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
   </a>
-  <a href="mailto:bektaskazimca@gmail.com" target="blank">
-    <img align="https://vectorseek.com/wp-content/uploads/2021/02/Gmail-Logo-Vector-730x730.jpg" alt="Email" />
+  <a href="https://medium.com/@bektaskazimca" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" alt="Medium" height="40" width="40" />
   </a>
 </p>
+
+
 
 ---
 
